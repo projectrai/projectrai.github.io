@@ -5,8 +5,8 @@ email: data@datarai.me
 description: >- # this means to ignore newlines until "baseurl:"
   A Citizen Science Platform
 baseurl: "/" # the subpath of your site, e.g. /blog
-#url: "http://datarai.me" # the base hostname & protocol for your site, e.g. http://example.com
-url: "http://projectrai.github.io"
+url: "http://datarai.me" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "http://projectrai.github.io"
 
 github:
   repo: https://github.com/raimeister
