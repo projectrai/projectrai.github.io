@@ -1,0 +1,53 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: default
+title: Fly Count
+---
+
+<!--
+Begin Losant Embed
+Drop this in your markup where you would like the widget to go.
+-->
+<a class="los-widget"
+  href="https://app.losant.com/dashboards/5b32fc796c9018000747bbf8?embed=IbKLOWbbaO"
+  data-dashboard-id="5b32fc796c9018000747bbf8"
+  data-block-id="IbKLOWbbaO"
+  data-theme="light"
+  data-height="332px"
+  data-width="100%">
+  View my Losant-powered widget "Real Time Fruit Fly Counter 2 (1 sec sampling)"
+</a>
+<script>window.lsnt = (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0], t = window.lsnt || {};
+  if (d.getElementById(id)) return t;
+  js = d.createElement(s); js.id = id;
+  js.src = "https://app.losant.com/scripts/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs); t._e = [];
+  t.ready = function(f) { t._e.push(f); }; return t;
+}(document, "script", "lsnt-widgets"));</script>
+<!-- End Losant Embed -->
+
+<!--
+Begin Losant Embed
+Drop this in your markup where you would like the widget to go.
+-->
+<a class="los-widget"
+  href="https://app.losant.com/dashboards/5b32fc796c9018000747bbf8?embed=d35GBSfspn"
+  data-dashboard-id="5b32fc796c9018000747bbf8"
+  data-block-id="d35GBSfspn"
+  data-theme="light"
+  data-height="332px"
+  data-width="100%">
+  View my Losant-powered widget "Real Time Fruit Fly Counter 1 (1 sec sampling)"
+</a>
+<script>window.lsnt = (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0], t = window.lsnt || {};
+  if (d.getElementById(id)) return t;
+  js = d.createElement(s); js.id = id;
+  js.src = "https://app.losant.com/scripts/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs); t._e = [];
+  t.ready = function(f) { t._e.push(f); }; return t;
+}(document, "script", "lsnt-widgets"));</script>
+<!-- End Losant Embed -->
